@@ -24,7 +24,7 @@ public class InstanceofExample {
 		
 		Parent parentB = new Parent();	// 업캐스팅X
 		method1(parentB);
-		method2(parentB);
+		method2(parentB); // 런타임 에러 발생
 		
 			}
 }
