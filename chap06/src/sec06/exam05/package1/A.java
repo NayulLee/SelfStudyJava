@@ -9,11 +9,8 @@ public class A {
 		field1 = 1;
 		field2 = 1;
 		field3 = 1;
-		
-		method1();
-		method2();
-		method3();
 	}
+		
 	
 	public void method1() {}
 	void method() {}
