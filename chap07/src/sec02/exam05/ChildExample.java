@@ -12,6 +12,7 @@ public class ChildExample {
 		Child child = (Child)parent;
 		child.field2 = "uuu";
 		child.method3();
+		
 		child.method1();
 		child.method2();
 		
