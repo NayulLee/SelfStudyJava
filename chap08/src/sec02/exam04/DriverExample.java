@@ -11,6 +11,6 @@ public class DriverExample {
 		Taxi taxi = new Taxi();
 		
 		driver.drive(bus);
-		driver.drive(taxi);
+		// driver.drive(taxi);
 	}
 }
