@@ -16,7 +16,7 @@ public class CoinCounter {
 		
 		for(int i = 0; i < unit.length; i++) {
 			quotients[i] = input / unit[i];
-			input -= quotients[i] * unit[i];
+			input %= unit[i];
 		}
 		
 		for(int i = 0; i < unit.length; i++) {
