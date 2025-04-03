@@ -1,4 +1,4 @@
-package sec01.exam23;
+package sec01.exam22;
 
 public class AutoBoxingUnBoxingExample {
 
